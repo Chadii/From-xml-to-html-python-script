@@ -2,7 +2,7 @@
 import subprocess
 import os
 import re
-import nmap
+
 pattern = "\d+"
 path ="./"
 files = os.listdir(path)
